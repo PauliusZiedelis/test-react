@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.jokes{
+  margin: auto;
+  background-color: #5b48c7;
+  margin-top: 5px;
+  width: 60%;
+  border: 3px solid navy;
+  border-radius: 5px;
+  padding: 10px;
+}
+.joke {
+  color:aqua;
+  background-color: #0000a0;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: thick double #32a1ce;
+  border-radius: 5px;
+}
+ul {
+  list-style-type: none;
+}
