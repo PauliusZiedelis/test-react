@@ -28,7 +28,6 @@ function Jokes() {
                 <b>Setup:</b> {joke.setup}
               </p>
               <p>
-                {" "}
                 <b>Delivery:</b> {joke.delivery}
               </p>
             </div>
